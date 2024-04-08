@@ -1,5 +1,5 @@
 [workspace]
 resolver = "2"
 members = [
-    "./NFT-contract",
+    "./NFT-contract", "NFT-contract-interaction",
 ]
