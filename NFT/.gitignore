@@ -1,2 +1,3 @@
 target
-out
+NFT-contract/out/debug
+**/.env
